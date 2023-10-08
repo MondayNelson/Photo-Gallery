@@ -1,2 +1,2 @@
 # Photo-Gallery2
-fun photo gallery for my frie
+fun photo gallery of me and my friends
